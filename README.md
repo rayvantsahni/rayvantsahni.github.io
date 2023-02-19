@@ -1,4 +1,5 @@
-###This is the place where all the magic happes.
+## WEL~L~ COM~E~ to my magical website.
+### This is the place where ~all~ no magic happens.
 
 
 Do not click [here]().
